@@ -85,11 +85,13 @@ Durante el análisis he encontrado varios puntos importantes que me han ayudado 
 
 **Rendimiento Comercial (Ventas)**
 
-- Identifiqué que el segmento ***[Retail]*** fue el más rentable del año, con un margen promedio de []%, lo que me ayuda a priorizar estrategias comerciales.
+- Identifiqué que tipo de cliente ***[Particular]*** fue el más rentable del año, con un margen promedio de ***[37,89]%***, pero existe una igualdad en los tipos de clientes.
 
-- El vendedor [ID del Vendedor] lideró en volumen de ingresos brutos, proporcionando visibilidad sobre los canales o talentos que generan mejores resultados.
+- Identifiqué que el canal de ventas ***[Retail]*** fue el más rentable del año, con un margen promedio de ***[39,90]%***, lo que me ayuda a priorizar estrategias comerciales.
 
-- Noté que hay picos de ventas en [Mes], indicando patrones estacionales que se podrían aprovechar para planificar inventario y campañas.
+- El vendedor ***[VEND008]*** lideró en volumen de ingresos brutos.
+
+- Noté que hay picos de ventas en ***[Enero]*** y en ***[Agosto]***, indicando patrones estacionales que se podrían aprovechar para planificar inventario y campañas.
 
 
 
