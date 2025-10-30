@@ -91,14 +91,50 @@ Durante el análisis he encontrado varios puntos importantes que me han ayudado 
 
 - El vendedor ***[VEND008]*** lideró en volumen de ingresos brutos.
 
-- Noté que hay picos de ventas en ***[Enero]*** y en ***[Agosto]***, indicando patrones estacionales que se podrían aprovechar para planificar inventario y campañas.
+- Noté que hay picos de ventas en ***[Febrero]***, indicando patrones estacionales que se podrían aprovechar para planificar inventario y campañas.
 
 
+## 5. Recomendaciones
+
+Después de revisar los datos y observar cómo están funcionando las operaciones y las ventas, decidí enfocarme en algunas cosas que considero prioritarias:
+
+- **Optimización de Costos:** Voy a prestar atención al transportista ***[ID_T008]*** y al tipo de vehículo ***[Camioneta]*** que resultan más caros por kilómetro.
+  
+- **Foco Comercial:** Planeo poner más energía en los clientes del segmento ***[Tipo de Cliente]***, porque veo que aportan mejor margen y son los que más conviene cuidar y fidelizar.
+
+- **Procesos y Servicio:** Me propongo analizar con detalle los momentos en que hubo retrasos o cancelaciones. Así puedo entender qué pasó y buscar formas de mejorar la puntualidad y la experiencia de nuestros clientes.
+
+- **Seguir de cerca las métricas:** Voy a estar revisando periódicamente el margen, la eficiencia y la puntualidad para detectar cualquier problema a tiempo y poder actuar rápido.
+
+## 6. Estructura del Proyecto
 
 
+analisis_logistico_comercial_2024/
+│
+├── data/
+│   ├── logistica_2024.csv       # Datos de transporte
+│   └── ventas_2024.csv          # Datos de ventas
+│
+├── dashboard/
+│   └── Dashboard_general.xlsx   # Dashboard interactivo
+│
+└── README.md                    # Este documento
 
 
+Con esto puedo localizar rápidamente los archivos, actualizar datos y mantener todo conectado con el dashboard.
 
+
+## 7. Créditos y Contacto
+
+Este proyecto lo desarrollé personalmente para analizar la operación y las ventas del año 2024.
+
+Autor: [David Morales Mendez]
+
+Empresa: [Tranlogic s.l]
+
+Año: 2024
+
+Contacto: [pirlodm85@gmail.com]
 
 
 
