@@ -106,20 +106,21 @@ Después de revisar los datos y observar cómo están funcionando las operacione
 
 - **Seguir de cerca las métricas:** Voy a estar revisando periódicamente el margen, la eficiencia y la puntualidad para detectar cualquier problema a tiempo y poder actuar rápido.
 
+
 ## 6. Estructura del Proyecto
 
-
+```text
 analisis_logistico_comercial_2024/
 │
 ├── data/
-│   ├── logistica_2024.csv       # Datos de transporte
-│   └── ventas_2024.csv          # Datos de ventas
+│   ├── logistica_2024.csv
+│   └── ventas_2024.csv
 │
 ├── dashboard/
-│   └── Dashboard_general.xlsx   # Dashboard interactivo
+│   └── Dashboard_general.xlsx
 │
-└── README.md                    # Este documento
-
+└── README.md
+```
 
 Con esto puedo localizar rápidamente los archivos, actualizar datos y mantener todo conectado con el dashboard.
 
@@ -136,7 +137,11 @@ Año: 2024
 
 Contacto: [pirlodm85@gmail.com]
 
+## 8. Nota Final
 
+Al revisar todos los datos y construir este dashboard, me di cuenta de cosas que antes no veía con claridad. Ahora puedo ver de un vistazo qué partes de la operación funcionan bien y cuáles necesitan atención.
+
+Este dashboard se ha convertido en mi herramienta de cabecera para seguir de cerca la logística y las ventas, detectar problemas rápido y tomar decisiones más informadas. Me ayuda a mantener todo bajo control y a planear mejoras concretas día a día.
 
 
 
